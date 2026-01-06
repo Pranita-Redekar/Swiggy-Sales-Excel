@@ -50,7 +50,7 @@ The dashboard includes:<br>
 -Sales distribution by food type (Veg vs Non-Veg)<br>
 -State-wise sales visualization using map charts<br>
 -Top-performing cities based on sales<br>
--Interactive slicers for month, category, and restaurant selection<br>
+-Interactive slicers for month, category, and restaurant selection<br><br>
 <a href="https://github.com/Pranita-Redekar/Superstore-Sales-Excel/blob/main/Dashboard.png" >View Dashboard  </a>
 
 
